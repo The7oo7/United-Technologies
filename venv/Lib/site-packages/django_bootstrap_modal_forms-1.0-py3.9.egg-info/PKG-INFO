@@ -1,0 +1,48 @@
+Metadata-Version: 1.1
+Name: django-bootstrap-modal-forms
+Version: 1.0
+Summary: A jQuery plugin for creating AJAX driven Django forms in Bootstrap modal.
+Home-page: https://github.com/trco/django-bootstrap-modal-forms
+Author: Uros Trstenjak
+Author-email: uros.trstenjak@gmail.com
+License: MIT License
+Description: 
+        ============================
+        Django Bootstrap modal forms
+        ============================
+        
+        A jQuery plugin for creating AJAX driven Django forms in Bootstrap modal.
+        
+        Installation
+        ============
+        
+        You can get Django Bootstrap modal forms by using pip::
+        
+            $ pip install django-bootstrap-modal-forms
+        
+        Usage
+        =====
+        
+        Add "bootstrap_modal_forms" to your INSTALLED_APPS setting like this::
+        
+            INSTALLED_APPS = [
+                ...
+                'bootstrap_modal_forms',
+                ...
+            ]
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
